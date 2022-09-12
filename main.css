@@ -1,0 +1,36 @@
+@import "reset.css";
+
+#upcoming-game {
+    margin: 1rem;
+}
+
+#schedule {
+    margin: 1rem;
+}
+
+#standings {
+    margin: 1rem;
+}
+
+table {
+    /* border: 2px solid black; */
+    border-collapse: collapse;
+}
+
+th, td {
+    width: 5rem;
+    border: 2px solid black;
+    padding: .25rem;
+}
+
+#rosters {
+    display: flex;
+}
+
+#rosters > div {
+    margin: 1rem;
+}
+
+li {
+    list-style-type: none;
+}

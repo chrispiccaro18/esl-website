@@ -1,0 +1,81 @@
+const schedule = [
+    {
+        date: "9/11",
+        home: "Angels",
+        away: "Stars",
+        score: "11 - 18",
+        description: "Stars @ Angels",
+    },
+    {
+        date: "9/18",
+        home: "Knights",
+        away: "Angels",
+        score: "",
+        description: "Angels @ Knights",
+    },
+    {
+        date: "9/25",
+        home: "Stars",
+        away: "Knights",
+        score: "",
+        description: "Knights @ Stars",
+    },
+    {
+        date: "10/2",
+        home: "Stars",
+        away: "Angels",
+        score: "",
+        description: "Angels @ Stars",
+    },
+    {
+        date: "10/9",
+        home: "Angels",
+        away: "Knights",
+        score: "",
+        description: "Knights @ Angels",
+    },
+    {
+        date: "10/16",
+        home: "Knights",
+        away: "Stars",
+        score: "",
+        description: "Stars @ Knights",
+    },
+    {
+        date: "10/23",
+        home: "Stars",
+        away: "Angels",
+        score: "",
+        description: "Angels @ Stars",
+    },
+    {
+        date: "10/30",
+        home: "Angels",
+        away: "Knights",
+        score: "",
+        description: "Knights @ Angels",
+    },
+    {
+        date: "11/6",
+        home: "Knights",
+        away: "Stars",
+        score: "",
+        description: "Stars @ Knights",
+    },
+    {
+        date: "11/13",
+        home: "TBD 2nd",
+        away: "TBD 3rd",
+        score: "",
+        description: "Playoff Game 1, 3rd @ 2nd",
+    },
+    {
+        date: "11/20",
+        home: "TBD 1st",
+        away: "TBD Winner of Game 1",
+        score: "",
+        description: "ESL Fall Championship, WG1 @ 1st",
+    },
+];
+
+export default schedule;
