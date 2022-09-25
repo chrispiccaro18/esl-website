@@ -17,7 +17,7 @@ const schedule = [
         date: "9/25",
         home: "Stars",
         away: "Knights",
-        score: "",
+        score: "17 - 21",
         description: "Knights @ Stars",
     },
     {
